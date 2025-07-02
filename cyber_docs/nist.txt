@@ -1,0 +1,11 @@
+The NIST Cybersecurity Framework (CSF) is developed by the National Institute of Standards and Technology (USA).
+
+Functions of NIST CSF:
+1. **Identify** – Understand the organization's cybersecurity risks, assets, and policies.
+2. **Protect** – Implement safeguards like access controls and awareness training.
+3. **Detect** – Enable timely discovery of cybersecurity events.
+4. **Respond** – Take action regarding detected events.
+5. **Recover** – Restore operations and services after an incident.
+
+NIST provides a common language and methodology for managing cybersecurity risks. It is widely adopted by governments and organizations to enhance their cybersecurity posture.
+

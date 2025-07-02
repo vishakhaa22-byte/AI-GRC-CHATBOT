@@ -1,0 +1,17 @@
+The General Data Protection Regulation (GDPR) is a data privacy law applicable in the European Union.
+
+Key Principles of GDPR:
+1. **Lawfulness, Fairness & Transparency** – Data should be processed legally, fairly, and in a transparent manner.
+2. **Purpose Limitation** – Data should only be collected for clear, specified, and legitimate purposes.
+3. **Data Minimization** – Only the minimum necessary data should be collected.
+4. **Accuracy** – Data must be accurate and kept up to date.
+5. **Storage Limitation** – Data should only be stored for as long as necessary.
+6. **Integrity & Confidentiality** – Data must be protected against unauthorized or unlawful processing and accidental loss.
+7. **Accountability** – The data controller is responsible for demonstrating GDPR compliance.
+
+GDPR also includes data subject rights like:
+- Right to Access
+- Right to Rectification
+- Right to Erasure ("Right to be forgotten")
+- Right to Data Portability
+
