@@ -1,6 +1,5 @@
 streamlit
-langchain
 transformers
-sentence-transformers
+langchain
 faiss-cpu
-huggingface-hub
+sentence-transformers
